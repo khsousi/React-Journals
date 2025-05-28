@@ -1,7 +1,4 @@
-
 import marker from "../assets/marker.png"
-
-
 export default function Entry(props){
 
   return(
